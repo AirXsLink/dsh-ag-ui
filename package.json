@@ -61,12 +61,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CaiZongyuan/dsh-ag-ui.git"
+    "url": "git+https://github.com/AirXsLink/dsh-ag-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/CaiZongyuan/dsh-ag-ui/issues"
+    "url": "https://github.com/AirXsLink/dsh-ag-ui/issues"
   },
-  "homepage": "https://github.com/CaiZongyuan/dsh-ag-ui#readme",
+  "homepage": "https://github.com/AirXsLink/dsh-ag-ui#readme",
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
